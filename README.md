@@ -7,8 +7,8 @@
 ║   $ whoami                                                   ║
 ║   > Mohak Rathod                                             ║
 ║   > MS CS @ Arizona State University                         ║
-║   > AI Infrastructure · Distributed Systems · LLM Eng       ║
-║   > Published Researcher · 4.0 GPA                          ║
+║   > AI Infrastructure · Distributed Systems · LLM Eng        ║
+║   > Published Researcher · 4.0 GPA                           ║
 ║                                                              ║
 ╚══════════════════════════════════════════════════════════════╝
 ```
