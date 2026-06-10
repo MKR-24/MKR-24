@@ -8,8 +8,8 @@
 ║   > Mohak Rathod                                             ║
 ║   > MS CS @ Arizona State University                         ║
 ║   > AI Infrastructure · Distributed Systems · LLM Eng        ║
-║   > Published Researcher · 4.0 GPA                           ║
-║                                                              ║
+║   > Volnteer @ VISA LAB                                      ║
+║   > 3.56 GPA                                                 ║
 ╚══════════════════════════════════════════════════════════════╝
 ```
 
@@ -21,10 +21,10 @@
 ```bash
 $ cat about.txt
 ```
-> Building fault-tolerant AI training systems and LLM infrastructure.
-> Pursuing thesis at the intersection of distributed computing and ML systems.
+> Building multi-agent AI systems and high-performance distributed infrastructure.  
+> Volunteer at ASU VISA Lab — multi-agent AI coaching system.  
 > Published research in blockchain-based decentralized systems.
-> Open to **SWE / MLE / Research Internships — Summer 2026**
+> Open to **SWE / MLE / Security Engineering roles — New Grad 2027**
 
 ---
 
@@ -35,10 +35,12 @@ $ ls -la ~/projects/active/
 
 | Project | Description | Stack |
 |---|---|---|
-| 🔧 [Self-Healing-AI-Cluster](https://github.com/MKR-24/Self-Healing-AI-Cluster) | Fault-tolerant distributed ML training with heartbeat detection & checkpoint recovery | Python · PyTorch |
-| 🛡️ [VulnGraph](https://github.com/MKR-24/VulnGraph) | LLM-powered app security platform with graph-based exploit path analysis | Python · Neo4j · LLM |
-| ⚡ [Distributed-rate-Limiter](https://github.com/MKR-24/Distributed-rate-Limiter) | Horizontally scalable token-bucket rate limiter handling 10³+ req/sec | Go · Redis · K8s |
-| 🤖 [Multi-Agent-Workflow](https://github.com/MKR-24/Multi_Agent-Workflow) | Cooperative LLM agents with task routing; 35% latency reduction | Python · LangChain |
+| 🔍 [ARGUS](https://github.com/MKR-24/ARGUS-Agent) | `[WIP]` Autonomous security alert investigation — specialist sub-agents across CVE/EPSS databases, Neo4j attack graphs & VLM evidence analysis; MITRE ATT&CK-tagged incident reports | LangGraph · MCP · Claude Sonnet |
+| 🛡️ [VulnGraph](https://github.com/MKR-24/VulnGraph) | LLM-powered ASPM platform — hybrid RAG over 120 security docs, graph-based exploit path analysis, deterministic 5-stage patch pipeline, MCP server | Python · Neo4j · Ollama · FastAPI |
+| ⚡ [Distributed-rate-Limiter](https://github.com/MKR-24/Distributed-rate-Limiter) | Token-bucket rate limiter — 3,000 req/s at 1.57ms avg latency (p99 <12ms) under 60k-request sustained load | Go · gRPC · Redis · K8s |
+| 🤖 [Sentinel AI](https://github.com/vishnu2007dev/hackAZona) | Multi-agent industrial incident response — 3M sensor readings + 84 maintenance records in 90s; What-If simulation engine with real cost quantification | FastAPI · LangChain · Phi-3 · Supabase |
+| 🩺 [RecoveryIQ](https://github.com/kaushhatrivedi1/RecoveryIQ) | Contactless biometric extraction via rPPG + real MQTT device control + ASL finger-spelling built from scratch in 30 min at demo | FastAPI · MediaPipe · Claude Sonnet · MQTT |
+
 
 ---
 
