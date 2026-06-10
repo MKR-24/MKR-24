@@ -35,7 +35,7 @@ $ ls -la ~/projects/active/
 
 | Project | Description | Stack |
 |---|---|---|
-| 🔍 [ARGUS](https://github.com/MKR-24/ARGUS-Agent) | `[WIP]` Autonomous security alert investigation — specialist sub-agents across CVE/EPSS databases, Neo4j attack graphs & VLM evidence analysis; MITRE ATT&CK-tagged incident reports | LangGraph · MCP · Claude Sonnet |
+| 🔍 [ARGUS](https://github.com/MKR-24/ARGUS-Agent) | `[WIP]` Autonomous security alert investigation — specialist sub-agents across CVE/EPSS databases, Neo4j attack graphs & VLM evidence analysis; MITRE ATT&CK-tagged incident reports | LangGraph · MCP |
 | 🛡️ [VulnGraph](https://github.com/MKR-24/VulnGraph) | LLM-powered ASPM platform — hybrid RAG over 120 security docs, graph-based exploit path analysis, deterministic 5-stage patch pipeline, MCP server | Python · Neo4j · Ollama · FastAPI |
 | ⚡ [Distributed-rate-Limiter](https://github.com/MKR-24/Distributed-rate-Limiter) | Token-bucket rate limiter — 3,000 req/s at 1.57ms avg latency (p99 <12ms) under 60k-request sustained load | Go · gRPC · Redis · K8s |
 | 🤖 [Sentinel AI](https://github.com/vishnu2007dev/hackAZona) | Multi-agent industrial incident response — 3M sensor readings + 84 maintenance records in 90s; What-If simulation engine with real cost quantification | FastAPI · LangChain · Phi-3 · Supabase |
